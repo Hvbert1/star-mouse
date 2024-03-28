@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+
+.dot {
+  height: 1px;
+  width: 1px;
+  background-color: white;
+}
