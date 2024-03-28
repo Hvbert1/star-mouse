@@ -3,6 +3,7 @@ body {
 }
 
 .dot {
+  position: absolute;
   height: 1px;
   width: 1px;
   background-color: white;
